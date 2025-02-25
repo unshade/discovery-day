@@ -14,6 +14,7 @@ Ensuite, ajoutez ces **extensions** pour faciliter le travail :
 ## Introduction
 
 Cette initiation vous apprendra les bases du **web** :
+
 ✔️ Comment fonctionne Internet  
 ✔️ Qu'est-ce qu'une application web  
 ✔️ Les langages essentiels : **HTML, CSS et JavaScript**
